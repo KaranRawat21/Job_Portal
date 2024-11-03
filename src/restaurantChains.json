@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Software Developer",
+    "company": "Tech Solutions Inc.",
+    "rating": 4.5,
+    "location": "New Jodhpur",
+    "description": "Join our team to build innovative solutions. Experience in JavaScript, React, and Node.js required.",
+    "salary": "₹50,000 - ₹70,000 per month",
+    "category": "Full-Time"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Data Insights Ltd.",
+    "rating": 4.3,
+    "location": "Mumbai",
+    "description": "Analyze complex data sets to help businesses make data-driven decisions.",
+    "salary": "₹40,000 - ₹60,000 per month",
+    "category": "Full-Time"
+  },
+  {
+    "title": "Marketing Manager",
+    "company": "Bright Marketing",
+    "rating": 4.0,
+    "location": "Delhi",
+    "description": "Lead marketing campaigns and strategies for brand growth.",
+    "salary": "₹70,000 - ₹90,000 per month",
+    "category": "Full-Time"
+  },
+  {
+    "title": "Customer Support Specialist",
+    "company": "SupportHub",
+    "rating": 3.9,
+    "location": "Bengaluru",
+    "description": "Provide excellent customer service and resolve client issues.",
+    "salary": "₹25,000 - ₹35,000 per month",
+    "category": "Part-Time"
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "Creative Works",
+    "rating": 4.7,
+    "location": "Chennai",
+    "description": "Create visual content for branding, advertising, and marketing.",
+    "salary": "₹30,000 - ₹50,000 per month",
+    "category": "Contract"
+  },
+  {
+    "title": "HR Manager",
+    "company": "People Solutions",
+    "rating": 4.4,
+    "location": "Pune",
+    "description": "Manage recruitment, onboarding, and employee relations.",
+    "salary": "₹60,000 - ₹80,000 per month",
+    "category": "Full-Time"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "CodeWorks",
+    "rating": 4.2,
+    "location": "Hyderabad",
+    "description": "Develop server-side applications with Node.js and MongoDB.",
+    "salary": "₹55,000 - ₹75,000 per month",
+    "category": "Full-Time"
+  },
+  {
+    "title": "Sales Executive",
+    "company": "SalesPro",
+    "rating": 3.8,
+    "location": "Ahmedabad",
+    "description": "Drive sales and expand customer base.",
+    "salary": "₹20,000 - ₹40,000 per month",
+    "category": "Full-Time"
+  },
+  {
+    "title": "Content Writer",
+    "company": "Wordsmiths Co.",
+    "rating": 4.6,
+    "location": "Remote",
+    "description": "Create engaging content for blogs, websites, and social media.",
+    "salary": "₹15,000 - ₹30,000 per month",
+    "category": "Remote"
+  },
+  {
+    "title": "Project Manager",
+    "company": "ManageIt",
+    "rating": 4.1,
+    "location": "Kolkata",
+    "description": "Coordinate projects and ensure timely completion.",
+    "salary": "₹80,000 - ₹100,000 per month",
+    "category": "Full-Time"
+  },
+  {
+    "title": "Front-End Developer",
+    "company": "Frontend Masters",
+    "rating": 4.5,
+    "location": "Bengaluru",
+    "description": "Develop responsive web interfaces with React and CSS.",
+    "salary": "₹45,000 - ₹65,000 per month",
+    "category": "Full-Time"
+  },
+  {
+    "title": "Operations Manager",
+    "company": "Logistics Pro",
+    "rating": 3.9,
+    "location": "Mumbai",
+    "description": "Oversee daily operations and ensure efficiency.",
+    "salary": "₹70,000 - ₹90,000 per month",
+    "category": "Full-Time"
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "DesignHub",
+    "rating": 4.3,
+    "location": "Delhi",
+    "description": "Create intuitive and engaging user experiences.",
+    "salary": "₹40,000 - ₹60,000 per month",
+    "category": "Contract"
+  },
+  {
+    "title": "SEO Specialist",
+    "company": "OptimizeIt",
+    "rating": 4.0,
+    "location": "Remote",
+    "description": "Optimize websites for search engines to improve ranking.",
+    "salary": "₹30,000 - ₹50,000 per month",
+    "category": "Remote"
+  }
+]
